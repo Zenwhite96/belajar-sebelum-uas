@@ -31,3 +31,10 @@
 | Bumi    | 12.756   | 1              |
 | Mars    | 6.792    | 2              |
 | Jupiter | 142.984  | 67             |
+
+
+
+<a href="https://www.youtube.com/">YouTube</a>
+console.log("Hello, world!");
+SELECT * FROM users WHERE email = 'romi@gmail.com';
+$ git commit -m "first commit"
