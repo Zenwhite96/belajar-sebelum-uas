@@ -10,3 +10,13 @@
   <li>Pengguna menekan tombol "Salin Doa" untuk menyalin teks doa ke perangkat.</li>
   <li>Pengguna mengisi formulir umpan balik pada halaman About jika ingin memberikan masukan.</li>
 </ol>
+
+
+## Fitur Utama Aplikasi
+
+<ul>
+  <li>Login dan Register akun pengguna</li>
+  <li>Melihat daftar paket busana pengantin</li>
+  <li>Melakukan pemesanan atau booking</li>
+  <li>Menampilkan struk transaksi</li>
+</ul>
