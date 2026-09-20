@@ -1,1 +1,12 @@
 ## hari ini saya belajar dengan sangat serius sebelum UAS
+
+## Alur Penggunaan Aplikasi
+
+<ol>
+  <li>Pengguna membuka halaman beranda website utama (<index.html>).</li>
+  <li>Pengguna memilih wilayah Provinsi dan Kabupaten/Kota untuk melihat jadwal sholat.</li>
+  <li>Pengguna beralih ke halaman Al-Quran untuk mencari surah atau mendengarkan audio murottal.</li>
+  <li>Pengguna membuka halaman Doa Harian untuk mencari doa berdasarkan kategori.</li>
+  <li>Pengguna menekan tombol "Salin Doa" untuk menyalin teks doa ke perangkat.</li>
+  <li>Pengguna mengisi formulir umpan balik pada halaman About jika ingin memberikan masukan.</li>
+</ol>
